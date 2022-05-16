@@ -25,4 +25,4 @@ You can change http calls default timeout with `HttpTimeoutSeconds`. The default
 ```
 
 # How to run
-Go to the root of the project and run `dotnet run` command from cmd.
+Go to the root of the project and run `dotnet run` command from cmd and call `http://localhost:5000/api`.
